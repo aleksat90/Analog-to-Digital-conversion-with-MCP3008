@@ -1,7 +1,7 @@
 # Analog-to-Digital-conversion-with-MCP3008
 Analog to digital conversion with MCP3008 10bit converter and potentiometer.
 ## Abstract:
-Potentiometer analogue to digital conversion.
+Potentiometer analogue to digital conversion and LCD 16x2 display.
 
 ## Assembly:
 
